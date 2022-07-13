@@ -26,5 +26,5 @@
 ```
 
 Assets
-- [Courier font](/Users/dcvezzani/personal-projects/phaser/cardgame3/assets.zip)
+- [Courier font](./assets.zip)
 
